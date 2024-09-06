@@ -1,8 +1,9 @@
 # Psychophysical Test: Animal or Not
+![IMG_E3659](https://github.com/user-attachments/assets/403d203e-c8e1-4476-8d48-f3c88dc0a4ea)
 
 ## Overview
 
-This MATLAB script conducts a psychophysical test where participants are shown images and must determine whether the image contains an animal. The script is designed to run a series of trials and collect data on participant responses.
+This MATLAB script conducts a psychophysical test using Psychtoolbox in MATLAB where participants are shown images and must determine whether the image contains an animal. The script is designed to run a series of trials and collect data on participant responses.
 
 ## Features
 
