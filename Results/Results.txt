@@ -1,0 +1,133 @@
+Amirhossein : TRIAL 1
+Accuracy of all = 97
+RT of all = 0.56578
+Accuracy of Head = 100
+RT of Head = 0.55428
+Accuracy of Close Body = 100
+RT of Close Body = 0.55013
+Accuracy of Medium Body = 98
+RT of Medium Body = 0.5746
+Accuracy of Far Body = 90
+RT of Far Body = 0.58412
+
+Amirhossein : TRIAL 2
+Accuracy of all = 95
+RT of all = 0.53491
+Accuracy of Head = 98
+RT of Head = 0.52227
+Accuracy of Close Body = 97
+RT of Close Body = 0.53497
+Accuracy of Medium Body = 94
+RT of Medium Body = 0.53457
+Accuracy of Far Body = 91
+RT of Far Body = 0.5478
+
+Amirhossein : TRIAL 3
+Accuracy of all = 94.25
+RT of all = 0.56234
+Accuracy of Head = 94
+RT of Head = 0.56198
+Accuracy of Close Body = 97
+RT of Close Body = 0.5472
+Accuracy of Medium Body = 97
+RT of Medium Body = 0.55814
+Accuracy of Far Body = 89
+RT of Far Body = 0.58203
+
+
+
+
+Amirarsalan : TRIAL 1
+Accuracy of all = 95.5
+RT of all = 0.56154
+Accuracy of Head = 95
+RT of Head = 0.55106
+Accuracy of Close Body = 99
+RT of Close Body = 0.53736
+Accuracy of Medium Body = 93
+RT of Medium Body = 0.61662
+Accuracy of Far Body = 95
+RT of Far Body = 0.54113
+
+Amirarsalan : TRIAL 2
+Accuracy of all = 85.25
+RT of all = 0.50737
+Accuracy of Head = 85
+RT of Head = 0.497
+Accuracy of Close Body = 85
+RT of Close Body = 0.49536
+Accuracy of Medium Body = 90
+RT of Medium Body = 0.51172
+Accuracy of Far Body = 81
+RT of Far Body = 0.52541
+
+Amirarsalan : TRIAL 3
+Accuracy of all = 86.25
+RT of all = 0.50185
+Accuracy of Head = 92
+RT of Head = 0.48865
+Accuracy of Close Body = 86
+RT of Close Body = 0.48138
+Accuracy of Medium Body = 81
+RT of Medium Body = 0.49183
+Accuracy of Far Body = 86
+RT of Far Body = 0.54554
+
+
+
+
+Maryam : TRIAL 1
+Accuracy of all = 93.5
+RT of all = 0.74095
+Accuracy of Head = 90
+RT of Head = 0.75284
+Accuracy of Close Body = 96
+RT of Close Body = 0.74922
+Accuracy of Medium Body = 98
+RT of Medium Body = 0.67925
+Accuracy of Far Body = 90
+RT of Far Body = 0.78248
+
+Maryam : TRIAL 2
+Accuracy of all = 89.75
+RT of all = 0.6799
+Accuracy of Head = 88
+RT of Head = 0.66125
+Accuracy of Close Body = 90
+RT of Close Body = 0.67578
+Accuracy of Medium Body = 92
+RT of Medium Body = 0.69469
+Accuracy of Far Body = 89
+RT of Far Body = 0.68788
+
+Maryam : TRIAL 3
+Accuracy of all = 91.5
+RT of all = 0.6818
+Accuracy of Head = 93
+RT of Head = 0.65373
+Accuracy of Close Body = 91
+RT of Close Body = 0.71719
+Accuracy of Medium Body = 95
+RT of Medium Body = 0.68991
+Accuracy of Far Body = 87
+RT of Far Body = 0.66636
+
+HEAD:
+successrate =
+
+    0.5950
+
+CLOSE:
+successrate =
+
+    0.6050
+
+MEDIUM:
+successrate =
+
+    0.8250
+
+FAR:
+successrate =
+
+    0.5050
